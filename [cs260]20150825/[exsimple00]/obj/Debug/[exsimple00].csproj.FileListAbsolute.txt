@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\bin\Debug\[exsimple00].exe.config
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\[exsimple00].csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\[exsimple00]_MarkupCompile.cache
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\[exsimple00].g.resources
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\_exsimple00_.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\[exsimple00].csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\bin\Debug\[exsimple00].exe
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\bin\Debug\[exsimple00].pdb
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\[exsimple00].exe
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple00]\obj\Debug\[exsimple00].pdb

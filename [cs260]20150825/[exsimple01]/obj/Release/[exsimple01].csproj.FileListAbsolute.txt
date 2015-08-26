@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple01]\bin\Release\[exsimple01].exe.config
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple01]\bin\Release\[exsimple01].exe
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple01]\bin\Release\[exsimple01].pdb
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple01]\obj\Release\[exsimple01].exe
+c:\users\user\documents\visual studio 2012\Projects\[cs260]20150825\[exsimple01]\obj\Release\[exsimple01].pdb
